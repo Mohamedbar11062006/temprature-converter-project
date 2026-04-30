@@ -2,3 +2,25 @@
     background-color: beige;
     font-style: oblique;
 }
+#celsius{
+    margin-right:35px;
+}
+#result{
+    padding: 50px;
+}
+#TC{
+    border-style: groove;
+    border: radius 50px;
+}
+#celsius{
+margin-right: 100px;
+
+}
+#fahrenheit{
+margin-top: 100px;
+}
+button{
+    width: 150px;
+    height: 120px;
+    margin: auto;
+}
